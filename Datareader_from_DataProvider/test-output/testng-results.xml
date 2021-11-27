@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1350" started-at="2021-08-03T12:29:30 IST" finished-at="2021-08-03T12:29:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1350" started-at="2021-08-03T12:29:30 IST" finished-at="2021-08-03T12:29:32 IST">
+      <class name="Parameterization.TestNGParameterizationExcel">
+        <test-method status="PASS" signature="Test_01(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Parameterization.TestNGParameterizationExcel@11438d26]" name="Test_01" duration-ms="9" started-at="2021-08-03T12:29:31 IST" data-provider="getData" finished-at="2021-08-03T12:29:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[krish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jldh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[delhi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01 -->
+        <test-method status="PASS" signature="Test_01(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Parameterization.TestNGParameterizationExcel@11438d26]" name="Test_01" duration-ms="6" started-at="2021-08-03T12:29:32 IST" data-provider="getData" finished-at="2021-08-03T12:29:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[khushi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ndknl]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[meerut]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01 -->
+        <test-method status="PASS" signature="Test_01(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Parameterization.TestNGParameterizationExcel@11438d26]" name="Test_01" duration-ms="6" started-at="2021-08-03T12:29:32 IST" data-provider="getData" finished-at="2021-08-03T12:29:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asddffjg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kolkata]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01 -->
+      </class> <!-- Parameterization.TestNGParameterizationExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
