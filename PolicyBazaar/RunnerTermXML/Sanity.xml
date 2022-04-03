@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Policy Bazaar Sanity Suite">
+  <test thread-count="5" name="Sanity_TestCases">
+
+	<groups>
+		<run>
+			<include name="sanity" />
+		</run>
+	</groups>
+
+	<classes>
+		<class
+			name="com.policybazaar.qa.TermTestCases.PolicyBazaarTermPreQuotesPageTestCase" />
+		<class
+			name="com.policybazaar.qa.TermTestCases.PolicyBazaarTermQuotesPageTestCase" />
+		<class
+			name="com.policybazaar.qa.TermTestCases.PolicyBazaarYourDetailPageTestCase" />
+		<class
+			name="com.policybazaar.qa.TermTestCases.PolicyBazaarCountryDetailPageTestCase" />
+		<class
+			name="com.policybazaar.qa.TermTestCases.PolicyBazaarUpgradePlanPageTestCase" />	
+	</classes>
+  </test> <!-- Sanity_TestCases -->
+</suite> <!-- Policy Bazaar Sanity Suite -->

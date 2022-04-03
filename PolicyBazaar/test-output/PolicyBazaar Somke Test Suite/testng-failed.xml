@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PolicyBazaar Somke Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Smoke_Test(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.policybazaar.qa.testCases.PolicyBazaarYourDetailPageTestCase">
+        <methods>
+          <include name="validateEduation"/>
+          <include name="validateFUllName"/>
+          <include name="validateLifeCoverValue"/>
+          <include name="validateProductPageLogo"/>
+          <include name="validateCoverTillAge"/>
+          <include name="vaidatePayForAge"/>
+          <include name="validateAnnualIncome"/>
+          <include name="validateModeOfPremium"/>
+          <include name="validateOccupation"/>
+          <include name="validateEmail"/>
+        </methods>
+      </class> <!-- com.policybazaar.qa.testCases.PolicyBazaarYourDetailPageTestCase -->
+    </classes>
+  </test> <!-- Smoke_Test(failed) -->
+</suite> <!-- Failed suite [PolicyBazaar Somke Test Suite] -->

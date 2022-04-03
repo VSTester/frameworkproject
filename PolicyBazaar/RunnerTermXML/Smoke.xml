@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Policy Bazaar Smoke Suite">
+	<test thread-count="5" name="Smoke_TestCases">
+		<groups>
+			<run>
+				<include name="smoke" />
+			</run>
+		</groups>
+
+	<classes>
+		<class
+			name="com.policybazaar.qa.testCases.PolicyBazaarPreQuotesPageTestCase" />
+		<class
+			name="com.policybazaar.qa.testCases.PolicyBazaarQuotesPageTestCase" />
+		<class
+			name="com.policybazaar.qa.testCases.PolicyBazaarYourDetailPageTestCase" />
+		<class
+			name="com.policybazaar.qa.testCases.PolicyBazaarCountryDetailPageTestCase" />
+		<class
+			name="com.policybazaar.qa.testCases.PolicyBazaarUpgradePlanPageTestCase" />	
+	</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

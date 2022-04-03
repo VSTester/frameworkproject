@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Policy Bazaar Sanity Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Sanity_TestCases(failed)">
+    <groups>
+      <run>
+        <include name="sanity"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.policybazaar.qa.testCases.PolicyBazaarUpgradePlanPageTestCase">
+        <methods>
+          <include name="failSnapShot"/>
+          <include name="afterSuite"/>
+          <include name="validateUpgradePlanPage"/>
+          <include name="beforSuite"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.policybazaar.qa.testCases.PolicyBazaarUpgradePlanPageTestCase -->
+    </classes>
+  </test> <!-- Sanity_TestCases(failed) -->
+</suite> <!-- Failed suite [Policy Bazaar Sanity Suite] -->
