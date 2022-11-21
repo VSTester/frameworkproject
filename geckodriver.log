@@ -1,0 +1,60 @@
+1668525529599	geckodriver	INFO	Listening on 127.0.0.1:60955
+1668525532706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60956" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofileXeYUrk"
+1668525534268	Marionette	INFO	Marionette enabled
+1668525534287	Marionette	INFO	Listening on port 60968
+Read port: 60968
+WebDriver BiDi listening on ws://127.0.0.1:60956
+1668525534651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofileXeYUrk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60956/devtools/browser/0b7875c2-447c-4dcf-80dd-2d6851e3eefb
+1668525539798	Marionette	INFO	Stopped listening on port 60968
+[Parent 16140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668525540589	geckodriver	INFO	Listening on 127.0.0.1:61001
+1668525543640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile9nzY0L"
+1668525544112	Marionette	INFO	Marionette enabled
+1668525544117	Marionette	INFO	Listening on port 61013
+Read port: 61013
+WebDriver BiDi listening on ws://127.0.0.1:61002
+1668525544451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile9nzY0L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61002/devtools/browser/7fbe9f93-824e-4b59-bd78-c534b2924470
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8888."
+JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
+1668525567746	Marionette	INFO	Stopped listening on port 61013
+1668525884366	geckodriver	INFO	Listening on 127.0.0.1:61294
+1668525887444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile22Cm4X"
+1668525887873	Marionette	INFO	Marionette enabled
+1668525887877	Marionette	INFO	Listening on port 61306
+Read port: 61306
+WebDriver BiDi listening on ws://127.0.0.1:61295
+1668525887978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile22Cm4X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61295/devtools/browser/04736eb7-86e4-42d4-880c-be7504a891bc
+1668525891672	Marionette	INFO	Stopped listening on port 61306
+1668525892369	geckodriver	INFO	Listening on 127.0.0.1:61336
+1668525895433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofileLGoL2l"
+1668525895801	Marionette	INFO	Marionette enabled
+1668525895805	Marionette	INFO	Listening on port 61347
+WebDriver BiDi listening on ws://127.0.0.1:61337
+Read port: 61347
+1668525896008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofileLGoL2l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61337/devtools/browser/b45c2c85-7e57-4590-9c49-338065560573
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8888."
+JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
+1668525912064	Marionette	INFO	Stopped listening on port 61347
+1668528599978	geckodriver	INFO	Listening on 127.0.0.1:63335
+1668528603062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofileg2q2BQ"
+1668528603499	Marionette	INFO	Marionette enabled
+1668528603507	Marionette	INFO	Listening on port 63358
+WebDriver BiDi listening on ws://127.0.0.1:63337
+Read port: 63358
+1668528603768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile54pH17\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63336/devtools/browser/0f43300c-c8d1-4194-ac8a-150d8c3e933f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8888."
+JavaScript warning: http://localhost:8888/jscalendar/calendar.js, line 1695: unreachable code after return statement
+1668528621187	Marionette	INFO	Stopped listening on port 63358
